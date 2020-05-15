@@ -1,0 +1,16 @@
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Person.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/PersonRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/daos/UniversityDao.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/EnrollmentRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/StudentRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/ServletInitializer.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/CourseRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/FacultyRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Course.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Faculty.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Enrollment.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Student.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/SectionRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/repositories/ModuleRepository.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/TestJpaApplication.java
+/Users/yushenni/Documents/STUDY/STS workplace/cs5200_spring2020_ni_yushen_jpa/src/main/java/edu/northeastern/cs5200/models/Section.java

@@ -1,0 +1,8 @@
+* hostname
+cs5200-spring2020-ni.caau5tn2ab94.us-east-2.rds.amazonaws.com
+* username
+admin
+* password
+password
+* port
+3306
