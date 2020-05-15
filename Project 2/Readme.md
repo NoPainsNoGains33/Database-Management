@@ -1,1 +1,1 @@
-Integrating Spring Boot with MySQL
+Integrating Spring Boot with MySQL 
